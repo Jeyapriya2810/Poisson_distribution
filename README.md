@@ -1,8 +1,10 @@
 # Fitting Poisson  distribution
+**EXP NO: 2**
 
 **JEYAPRIYA J ( 24004150 )**
 
 **DATE : 05/10/2024**
+
 
 # Aim : 
 
